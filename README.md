@@ -3,19 +3,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/phucduongthien">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="phucduogth1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://github.com/Bill-Fashion">
-    <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
+    <a href="https://www.linkedin.com/in/phucduongthien" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:phucduogth1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://github.com/Bill-Fashion" target="blank">
+      <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+    </a>
+  </div>
 </div>
 
-
+[Link to Google](https://www.google.com)
 
 ---
 
@@ -25,7 +25,7 @@
   - ⚡ I'm experienced with mobile development by Flutter
   - 😄 I have knowledge about backend development by Nodejs/ExpressJs
   - 💬 Ask me about anything, I'm happly to help!
-  - 📫 How to reach me: [Linkedin]("www.linkedin.com/in/phucduongthien")
+  - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/phucduongthien)
 
 
 
