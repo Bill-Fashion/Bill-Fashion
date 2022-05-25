@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/phuc-duong-007aa2204">
+  <a href="www.linkedin.com/in/phucduongthien">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="phucduogth1@gmail.com">
@@ -25,7 +25,7 @@
   - ⚡ I'm experienced with mobile development by Flutter
   - 😄 I have knowledge about backend development by Nodejs/ExpressJs
   - 💬 Ask me about anything, I'm happly to help!
-  - 📫 How to reach me: [Linkedin]("www.linkedin.com/in/phuc-duong-007aa2204")
+  - 📫 How to reach me: [Linkedin]("www.linkedin.com/in/phucduongthien")
 
 
 
