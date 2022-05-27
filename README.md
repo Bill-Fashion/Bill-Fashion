@@ -15,8 +15,6 @@
   </div>
 </div>
 
-[Link to Google](https://www.google.com)
-
 ---
 
 ### :woman_technologist: About Me :
