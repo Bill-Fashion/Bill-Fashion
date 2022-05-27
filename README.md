@@ -18,9 +18,9 @@
 ---
 
 ### :woman_technologist: About Me :
-  - 🔭 I’m currently working on frontend web development self-study
+  - 🔭 I’m currently self-studying and working on front-end web development
   - 🌱 I’m currently learning React.js, Typescript
-  - ⚡ I'm experienced with mobile development by Flutter
+  - ⚡ I'm experienced with mobile development with Flutter
   - 😄 I have knowledge about backend development by Nodejs/ExpressJs
   - 💬 Ask me about anything, I'm happly to help!
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/phucduongthien)
